@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project, "Streaming Insights: A Comprehensive Study of OTT Platform Usage", is a detailed statistical analysis of consumer behavior on Over-the-Top (OTT) platforms.
+This project, **"Streaming Insights: A Comprehensive Study of OTT Platform Usage"**, is a detailed statistical analysis of consumer behavior on Over-the-Top (OTT) platforms.
 
 The study examines user engagement patterns, preferences, and satisfaction levels across major OTT platforms like Netflix, Disney+ Hotstar, Amazon Prime Video, Sony Liv, and Jio Cinema.
 
@@ -30,17 +30,17 @@ Respondents provided information on demographics, OTT usage habits, and subscrip
 
 # 2. Data Analysis Techniques
 
-Graphical Representations: Column charts, pie charts, and stacked column charts.
+**Graphical Representations:** Column charts, pie charts, and stacked column charts.
 
-Shapiro-Wilk Normality Test: Used to check if the OTT usage data follows a normal distribution.
+**Shapiro-Wilk Normality Test:** Used to check if the OTT usage data follows a normal distribution.
 
-Fitting of Exponential Distribution: Modelled the time spent on OTT platforms.
+**Fitting of Exponential Distribution:** Modelled the time spent on OTT platforms.
 
-Chi-Square Tests: Applied to evaluate the goodness of fit and independence of attributes.
+**Chi-Square Tests:** Applied to evaluate the goodness of fit and independence of attributes.
 
-Population Proportion Test: Compared subscription renewal rates across student and non-student groups.
+**Population Proportion Test:** Compared subscription renewal rates across student and non-student groups.
 
-Machine Learning Algorithms: Implemented Naïve Bayes Classifier and k-means clustering for advanced insights.
+**Machine Learning Algorithms:** Implemented Naïve Bayes Classifier and k-means clustering for advanced insights.
 
 # Key Findings
 
@@ -58,16 +58,16 @@ Machine Learning Algorithms: Implemented Naïve Bayes Classifier and k-means clu
 
 # Tools & Technologies
 
-R Programming: Statistical analysis and hypothesis testing.
+**R Programming:** Statistical analysis and hypothesis testing.
 
-Python (Matplotlib, Pandas): Data visualization and advanced analytics.
+**Python (Matplotlib, Pandas):** Data visualization and advanced analytics.
 
-Excel: Data preprocessing and initial exploratory analysis.
+**Excel:** Data preprocessing and initial exploratory analysis.
 
 # Future Scope
 
-Expand the sample size for better generalizability.
+**Expand the sample size for better generalizability.**
 
-Apply deep learning techniques for more sophisticated pattern detection.
+**Apply deep learning techniques for more sophisticated pattern detection.**
 
-Integrate real-time OTT usage monitoring for dynamic analysis.
+**Integrate real-time OTT usage monitoring for dynamic analysis.**
